@@ -1,0 +1,36 @@
+.footer{
+    margin-top: 5rem;
+    padding: 1.5rem 6rem;
+    background: #BFD1E5;
+    color: rgb(37, 35, 35);
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    text-align: start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.top i{
+    color: black;
+    font-size: 2rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.top i:hover {
+    color: purple;
+}
+
+
+@media screen and (max-width: 850px) {
+    .footer{
+        padding: 4rem 2rem;
+    }
+
+    .footer i{
+        margin: 1rem 1rem 0 0;
+    }
+}
