@@ -11,7 +11,7 @@ import Business from './routes/Business';
 const App = () => {
   return(
     <>
-    <HashRouter basename='/PortfolioV'>
+    <HashRouter basename='/app'>
       <Navbar/>
       <Routes> 
         <Route path = '/Home' element = {<Home/>}/>
