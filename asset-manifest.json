@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PortfolioV/static/css/main.87aa28d3.css",
-    "main.js": "/PortfolioV/static/js/main.5f0235d7.js",
+    "main.js": "/PortfolioV/static/js/main.d2e032a5.js",
     "static/media/onsenJapan.png": "/PortfolioV/static/media/onsenJapan.9da568f918b459f06cf2.png",
     "static/media/disneysea.jpg": "/PortfolioV/static/media/disneysea.17ea68889a8159be16c8.jpg",
     "static/media/coffee.jpg": "/PortfolioV/static/media/coffee.f43096301b8530c10992.jpg",
     "static/media/LogoDesign.png": "/PortfolioV/static/media/LogoDesign.c9c0e66cf57bbb3a7393.png",
     "index.html": "/PortfolioV/index.html",
     "main.87aa28d3.css.map": "/PortfolioV/static/css/main.87aa28d3.css.map",
-    "main.5f0235d7.js.map": "/PortfolioV/static/js/main.5f0235d7.js.map"
+    "main.d2e032a5.js.map": "/PortfolioV/static/js/main.d2e032a5.js.map"
   },
   "entrypoints": [
     "static/css/main.87aa28d3.css",
-    "static/js/main.5f0235d7.js"
+    "static/js/main.d2e032a5.js"
   ]
 }
