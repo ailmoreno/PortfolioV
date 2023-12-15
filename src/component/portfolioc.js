@@ -11,13 +11,7 @@ const portfolioc = () => {
             <h1>Portfolio Projects</h1>
 
             <div className='portfolio-paragraph'>
-                <p>
-                    I specialize in creating visually stunning designs to execute
-                    marketing campaigns. I'm also well-versed in a variety of design softwares and programming languages. 
-                    
-                    I have experience with working in marketing, illustrations,
-                    content creation, and UI/UX work.
-                </p>
+
             </div>
 
 

@@ -20,14 +20,6 @@
     -moz-transform: translateY(-20%);
 }
 
-.portfolio-paragraph p{
-    font-size: 1.25rem;
-    line-height: 1.7em;
-    padding: 0 4.5rem 0 4.5rem;
-    text-align: center;
-    position: relative;
-}
-
 
 .tripcard {
     margin-top: 3rem;
