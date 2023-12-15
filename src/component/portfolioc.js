@@ -10,11 +10,6 @@ const portfolioc = () => {
         <div className='portfolio'>
             <h1>Portfolio Projects</h1>
 
-            <div className='portfolio-paragraph'>
-
-            </div>
-
-
             <div className='tripcard'>
                 <Link to= '/Design' style={{ textDecoration: 'none' }}>
                     <PortfolioData
