@@ -20,9 +20,9 @@ class Navbar extends Component {
 
                 <ul className={this.state.clicked ? 'nav-menu active' :'nav-menu' }>
                     <li>
-                        <Link className='nav-home' to="/Home">
+                        <a className='nav-home' href="/PortfolioV">
                         <i className="fa-solid fa-house"></i>
-                        Home</Link>
+                        Home</a>
                     </li>
                 </ul>
             </nav>

@@ -2,6 +2,7 @@ import './portfoliostyles.css';
 import PortfolioData from './PortfolioData.js';
 import Trip1 from '../component/disneysea.jpg';
 import { Link } from 'react-router-dom';
+import Design1 from '../component/DESIGNCO.png';
 
 const portfolioc = () => {
     return(
@@ -23,7 +24,7 @@ const portfolioc = () => {
             <div className='tripcard'>
                 <Link to= '/Design' style={{ textDecoration: 'none' }}>
                     <PortfolioData
-                        image = {Trip1}
+                        image = {Design1}
                         heading = 'Design-a-Thon'
                         text = 'Three-day competition hosted by Rice University for all college students.'
                     />
