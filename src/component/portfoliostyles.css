@@ -74,7 +74,8 @@
     position: relative;
     top: -140px;
     padding: 0em 0em 0em 20em;
-    text-align: left;
+    text-align: center;
+    text-decoration: none;
 }
 
 .t-card button {
