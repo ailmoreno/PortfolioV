@@ -4,6 +4,7 @@
 }
 
 .picture-container {
+    
     height: 100%;
     width: 100%;
     margin: -30px auto;
@@ -37,7 +38,7 @@
     padding: 0rem 9rem;
 }
 
-.t-card{
+.t-card{ 
     color: black;
     width: 100%;
     box-shadow: 0 5px 25px 2px rgba(0,0,0,.11);
@@ -45,7 +46,7 @@
     cursor: pointer;
     padding: 0rem 1rem;
     margin-bottom: 1.5rem;
-    background: rgb(255, 255, 255);
+    background: #ffffff;
 }
 
 .t-image img{

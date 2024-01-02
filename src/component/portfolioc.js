@@ -1,8 +1,10 @@
 import './portfoliostyles.css';
 import PortfolioData from './PortfolioData.js';
-import Trip1 from '../component/disneysea.jpg';
 import { Link } from 'react-router-dom';
 import Design1 from '../component/DESIGNCO.png';
+import PATHCO from '../component/PATHCO.png';
+import PETCO from '../component/PETCO.png';
+import BUSINESS from '../component/BUSINESSCO.png';
 
 const portfolioc = () => {
     return(
@@ -10,7 +12,7 @@ const portfolioc = () => {
         <div className='portfolio'>
             <h1>Portfolio Projects</h1>
 
-            <div style={{ borderTop: "3px solid #000000 ", marginLeft: 859, marginRight: 20 }}></div>
+            <div style={{ borderTop: "3px solid #000000 ", marginLeft: 859, marginRight: 10 }}></div>
 
             <div className='tripcard'>
                 <Link to= '/Design' style={{ textDecoration: 'none' }}>
@@ -23,7 +25,7 @@ const portfolioc = () => {
 
                 <Link to= '/Petco' style={{ textDecoration: 'none' }}>
                     <PortfolioData
-                        image = {Trip1}
+                        image = {PETCO}
                         heading = 'PetCo'
                         text = 'A personal project re-design of the current PetCo app.'
                     />
@@ -33,7 +35,7 @@ const portfolioc = () => {
             <div className='tripcard2'>
                 <Link to= '/PATH' style={{ textDecoration: 'none' }}>
                     <PortfolioData
-                        image = {Trip1}
+                        image = {PATHCO}
                         heading = 'PATH'
                         text = 'A six-week apprenticeship working with a non-profit organization targeting homelessness.'
                     />
@@ -41,7 +43,7 @@ const portfolioc = () => {
 
                 <Link to= '/Business' style={{ textDecoration: 'none' }}>
                     <PortfolioData
-                        image = {Trip1}
+                        image = {BUSINESS}
                         heading = 'Business Startups'
                         text = 'Projects with my current employment, and other small businesses that I have worked with.'
                     />
