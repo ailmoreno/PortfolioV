@@ -25,16 +25,18 @@
 
 
 .tripcard {
-    display:flexbox;
-    flex-direction:row;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
     margin-top: 3rem;
     padding: 0rem 9rem;
 
 }
 
 .tripcard2 {
-    display: flexbox;
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     padding: 0rem 9rem;
 }
 
@@ -60,45 +62,33 @@
     transform: scale(1.07);
 }
 
-
-.t-card h4{
-    font-size: 1.2rem;
-    text-align: center;
-    top: -150px;
-    left: 120px;
-    position: relative;
-    text-decoration: none;
-}
-
-.t-card p {
-    position: relative;
-    top: -140px;
-    padding: 0em 0em 0em 20em;
-    text-align: center;
-    text-decoration: none;
-}
-
 .t-card button {
-    text-align: center;
-    align-items: center;
-    border-radius: 5px;
-    position: relative;
-    float:right;
     cursor: pointer;
+    border-radius: 5px;
     background-color:  #000000;
     border: none;
     color: rgb(255, 255, 255);
     padding: 15px 15px;
     text-decoration: none;
     font-size: 16px;
-    top: -130px;
-    right: 328px;
 }
 
 .t-card button:hover{
     color: rgb(159, 196, 255);
 }
 
+.t-word {
+    height: 60px;
+    align-content: stretch;
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+    top: -150px;
+    left: 120px;
+    position: relative;
+    text-decoration: none;
+    justify-content: center;
+}
 
 @media screen and (max-width:850px) {
     .portfolio{
