@@ -21,9 +21,9 @@ const portfolioc = () => {
 
                 <Link to= '/Petco' style={{ textDecoration: 'none' }}>
                     <PortfolioData
-                    image = {Trip1}
-                    heading = 'PetCo'
-                    text = 'A personal project re-design of the current PetCo app.'
+                        image = {Trip1}
+                        heading = 'PetCo'
+                        text = 'A personal project re-design of the current PetCo app.'
                     />
                 </Link>
             </div>
