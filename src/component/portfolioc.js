@@ -10,6 +10,8 @@ const portfolioc = () => {
         <div className='portfolio'>
             <h1>Portfolio Projects</h1>
 
+            <div style={{ borderTop: "3px solid #000000 ", marginLeft: 859, marginRight: 20 }}></div>
+
             <div className='tripcard'>
                 <Link to= '/Design' style={{ textDecoration: 'none' }}>
                     <PortfolioData
