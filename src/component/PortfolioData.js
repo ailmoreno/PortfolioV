@@ -9,6 +9,7 @@ function PortfolioData(props){
             
             <h4>{props.heading}</h4>
             <p>{props.text}</p>
+            <button>Learn More</button>
         </div>
     )
 }

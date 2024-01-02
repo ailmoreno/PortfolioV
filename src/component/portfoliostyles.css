@@ -5,7 +5,8 @@
 
 .picture-container {
     height: 100%;
-    margin: 0 auto;
+    width: 100%;
+    margin: -30px auto;
     object-fit:cover;
 }
 
@@ -23,36 +24,31 @@
 
 
 .tripcard {
-    flex-direction: column;
+    display:flexbox;
+    flex-direction:row;
     margin-top: 3rem;
     padding: 0rem 9rem;
 
 }
 
 .tripcard2 {
-    flex-direction: column;
+    display: flexbox;
+    flex-direction: row;
     padding: 0rem 9rem;
 }
 
 .t-card{
-    display:grid;
     color: black;
     width: 100%;
     box-shadow: 0 5px 25px 2px rgba(0,0,0,.11);
-    border-radius: 1px;
+    border-radius: 5px;
     cursor: pointer;
     padding: 0rem 1rem;
     margin-bottom: 1.5rem;
     background: rgb(255, 255, 255);
-    /*padding: 20px 10px; */ 
-}
-
-.t-card:hover{
-    color: rgb(159, 196, 255);
 }
 
 .t-image img{
-    margin-bottom:1rem;
     margin-top: 1rem;
     max-width: 300px;
     transition: 0.3s ease-in-out;
@@ -67,7 +63,7 @@
 .t-card h4{
     font-size: 1.2rem;
     text-align: center;
-    top: -130px;
+    top: -150px;
     left: 120px;
     position: relative;
     text-decoration: none;
@@ -75,15 +71,36 @@
 
 .t-card p {
     position: relative;
-    top: -120px;
+    top: -140px;
     padding: 0em 0em 0em 20em;
+    text-align: left;
+}
+
+.t-card button {
     text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    position: relative;
+    float:right;
+    cursor: pointer;
+    background-color:  #000000;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    top: -130px;
+    right: 328px;
+}
+
+.t-card button:hover{
+    color: rgb(159, 196, 255);
 }
 
 
 @media screen and (max-width:850px) {
     .portfolio{
-        margin: 4rem 2rem;
+        margin: 2rem -9rem;
     }
 
 
@@ -93,12 +110,13 @@
     }
 
     .tripcard {
-        flex-direction: column;
+        display:contents;
+        flex-direction: row;
     }
 
     .tripcard2 {
-
-        flex-direction: column;
+        display:contents;
+        flex-direction: row;
     }
 
     .t-card{
