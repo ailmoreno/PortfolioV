@@ -1,6 +1,6 @@
 import './PATH.css';
 import './DesignCo.css';
-import phone1 from './coffee.jpg';
+import phone1 from './PATHCO.png';
 
 function PATH(){
     return (

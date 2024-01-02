@@ -1,5 +1,5 @@
 import './DesignCo.css';
-import phone1 from './coffee.jpg';
+import phone1 from './DESIGNCO.png';
 
 function DesignCo(){
     return (
