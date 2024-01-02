@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioV/static/css/main.02d3ffde.css",
-    "main.js": "/PortfolioV/static/js/main.45af34a5.js",
+    "main.css": "/PortfolioV/static/css/main.94808fcb.css",
+    "main.js": "/PortfolioV/static/js/main.9edfbf8c.js",
     "static/media/onsenJapan.png": "/PortfolioV/static/media/onsenJapan.9da568f918b459f06cf2.png",
     "static/media/DESIGNCO.png": "/PortfolioV/static/media/DESIGNCO.fc4993232e24de33636b.png",
     "static/media/PATHCO.png": "/PortfolioV/static/media/PATHCO.cc5b17959219ef158993.png",
@@ -10,11 +10,11 @@
     "static/media/BUSINESSCO.png": "/PortfolioV/static/media/BUSINESSCO.b91fe9f719702e38b668.png",
     "static/media/LogoDesign.png": "/PortfolioV/static/media/LogoDesign.c9c0e66cf57bbb3a7393.png",
     "index.html": "/PortfolioV/index.html",
-    "main.02d3ffde.css.map": "/PortfolioV/static/css/main.02d3ffde.css.map",
-    "main.45af34a5.js.map": "/PortfolioV/static/js/main.45af34a5.js.map"
+    "main.94808fcb.css.map": "/PortfolioV/static/css/main.94808fcb.css.map",
+    "main.9edfbf8c.js.map": "/PortfolioV/static/js/main.9edfbf8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.02d3ffde.css",
-    "static/js/main.45af34a5.js"
+    "static/css/main.94808fcb.css",
+    "static/js/main.9edfbf8c.js"
   ]
 }
