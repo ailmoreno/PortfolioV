@@ -1,0 +1,38 @@
+.serviceshp h3 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    background: rgb(0, 0, 0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    position: relative;
+}
+
+.list-text {
+    align-content:stretch;
+    justify-content: center;
+    /**/
+    list-style-type:square;
+    display: flex;
+    flex-flow:row wrap;
+    align-items: center;
+}
+
+.list-text li {
+    background-color: #f1f1f1;
+    width: 140px;
+    margin: 5px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.3rem;
+    border-radius: 5px;
+}
+
+.serviceshp p{
+    font-size: 1.25rem;
+    color: rgb(0, 0, 0);
+    padding: 1rem 10rem 2rem 10rem;
+    line-height: 1.7em;
+    text-align: center;
+    position: relative;
+}

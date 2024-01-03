@@ -32,6 +32,16 @@
     position: relative;
 }
 
+.hero-text h3 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    background: white;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    position: relative;
+}
+
 .hero-text p{
     font-size: 1.25rem;
     color: white;

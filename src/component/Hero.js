@@ -12,9 +12,7 @@ function Hero() {
                 <h1>Hi there</h1>
                 <p>
                     I'm Aileen, a full-time Marketing Coordinator with a passion in UI/UX design and front-end development.
-                    I specialize in marketing, illustrations, content creation, and UI/UX work. I'm also well-versed in a variety of design softwares and programming languages. 
-
-                    This simple website has been created using React.Js with the languages HTML, CSS, and JavaScript.
+                    I specialize in marketing, illustrations, content creation, and UI/UX work. I'm well-versed in a variety of design softwares and programming languages. 
                 </p>
 
                 <p>
