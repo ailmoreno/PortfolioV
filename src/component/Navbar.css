@@ -4,7 +4,7 @@
     align-items: center;
     padding: 0 20px;
     /*box-shadow: 0 5px 10px 0 rgba(128, 128, 128);*/
-    background-color: #BFD1E5;
+    background-color: #191c25;
     z-index: 9999;
 }
 
@@ -24,7 +24,7 @@
     position: relative;
     right: -60px;
     text-decoration: none;
-    color: #222;
+    color: #ffffff;
     font-size: 1.1rem;
     font-weight: 110;
     padding: 0.7rem 1rem;
@@ -35,7 +35,7 @@
 }
 .nav-home:hover{
     /*background-color: #2b4d63;*/
-    color: #e6f4ff;
+    color: #b2d3ed;
     /*border-radius: 10%;*/
     transition: all 0.2s ease-in-out;
 }
@@ -50,7 +50,7 @@
         display:block;
         flex-direction: column;
         justify-content: flex-start;
-        background-color: #BFD1E5;
+        background-color: #191c25;
         width: 100%;
         height: auto;
         position: absolute;
@@ -81,7 +81,7 @@
 
     .nav-home:hover {
         padding: 7%;
-        color: #e6f4ff;
+        color: #b2d3ed;
         border-radius: 10%;
     }
 
@@ -92,7 +92,7 @@
 
     .menu-icons i{
         font-size: 1.2rem;
-        color: #222;
+        color: #ffffff;
     }
 
 }

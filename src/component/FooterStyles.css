@@ -1,8 +1,8 @@
 .footer{
     margin-top: 5rem;
     padding: 1.5rem 6rem;
-    background: #BFD1E5;
-    color: rgb(37, 35, 35);
+    background: #191c25;
+    color: rgb(255, 255, 255);
 }
 
 .top {
@@ -14,14 +14,14 @@
 }
 
 .top i{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 2rem;
     margin-left: 1rem;
     cursor: pointer;
 }
 
 .top i:hover {
-    color: purple;
+    color: #b2d3ed;
 }
 
 
