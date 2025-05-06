@@ -11,12 +11,12 @@ function Hero() {
             <div className='hero-text'>
                 <h1>Hi there</h1>
                 <p>
-                    I'm Aileen, a full-time Marketing Coordinator with a passion in UI/UX design and front-end development.
-                    I specialize in marketing, illustrations, content creation, and UI/UX work. I'm well-versed in a variety of design softwares and programming languages. 
+                    I'm Aileen, a full-time student with experience in Marketing and Finance with a passion in front-end and back-end programming.
+                    Outside of work, I enjoy mystery shows, reading, and exploring new cafes.
                 </p>
 
                 <p>
-                    Outside of work, I enjoy mystery shows, reading, and exploring new cafes.
+                    This page is currently under construction.
                 </p>
             </div>
         </div>
@@ -25,13 +25,4 @@ function Hero() {
     )
 }
 
-/*const rootElement = document.getElementById("root");
-ReactDOM.render(<Hero />, rootElement);
-
-                <p> 
-                    I'm Aileen, a full-time Marketing Coordinator with a passion in UI/UX design and front-end development.
-
-                    Outside of work, I enjoy mystery shows, reading, and exploring new cafes.
-                    This simple website has been created by me using React.Js with the languages HTML, CSS, and JavaScript.
-                </p>*/
 export default Hero;

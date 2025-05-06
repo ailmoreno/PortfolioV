@@ -4,8 +4,12 @@ function Services() {
     return (
         <>
         <div className='serviceshp'>
+            <p>
+                A new section will be added here to include back-end projects - in progress 40%.
+            </p>
+
             <h3>
-                Programming Knowledge
+                Programming Knowledge.
             </h3>
 
             <p>

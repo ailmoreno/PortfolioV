@@ -62,7 +62,7 @@ function DesignCo(){
                 <br></br>
                 <br></br>
                 Some of their advice was to simplify the homepage more, and not to overcrowd too many items. 
-                Taking this in mind I've began sketching out a more simple design layout. However overall, they deemed it a big
+                Taking this in mind I've began sketching out a more simple design layout. Overall, they deemed it a big
                 improvement from the original prototype. 
 
                 My final plan is to create a mobile app and put this on Google Store for more in-depth experience. I plan to use React.Js, CSS, and Java to create the app.
